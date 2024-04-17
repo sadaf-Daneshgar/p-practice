@@ -31,9 +31,50 @@ nav {
   padding-left: 2rem;
 }
 
-.contact {
+.contact, .btn {
   color: #fff;
   background-color: rgb(50, 50, 230);
   border-radius: 0.3rem;
   padding: 6px 14px;
+}
+
+.btn:nth-child(1) {
+  background-color: rgb(26, 152, 26);
+}
+
+.bottom_header {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding-top: 3rem;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  line-height: 2.5rem;
+  flex-wrap: wrap;
+}
+
+.left_side {
+  flex-basis: 50%;
+}
+
+.left {
+  max-width: 30rem;
+}
+
+.btns {
+ padding: 1rem 0;
+}
+
+.right_side {
+  flex-basis: 50%;
+  padding-left: 3rem;
+}
+
+.side_img {
+  width: 300px;
+  height: 300px;
+  border-radius: 0.3rem;
 }
