@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+header {
+  padding: 1.5rem;
+}
+
+.top-header { 
+  display: flex;
+  justify-content: space-evenly;
+}
+
+nav {
+  display: flex;
+}
+
+.menu {
+  display: flex;
+  gap: 2rem;
+  padding-left: 2rem;
+}
+
+.contact {
+  color: #fff;
+  background-color: rgb(50, 50, 230);
+  border-radius: 0.3rem;
+  padding: 6px 14px;
+}
