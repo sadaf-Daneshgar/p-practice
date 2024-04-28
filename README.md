@@ -4,8 +4,6 @@
   <h3><b> README Template</b></h3>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
