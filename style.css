@@ -12,8 +12,9 @@ a {
   text-decoration: none;
 }
 
-header {
-  padding: 1.5rem;
+.continer {
+  justify-content: space-around;
+  padding: 2rem;
 }
 
 .top-header { 
@@ -27,7 +28,7 @@ nav {
 
 .menu {
   display: flex;
-  gap: 2rem;
+  gap: 20px;
   padding-left: 2rem;
 }
 
@@ -43,17 +44,17 @@ nav {
 }
 
 .bottom_header {
+  margin-top: 3rem;
   align-items: center;
   display: flex;
   justify-content: center;
-  padding-top: 3rem;
 }
 
 .header-content {
   display: flex;
   align-items: center;
   line-height: 2.5rem;
-  flex-wrap: wrap;
+  /* flex-wrap: wrap; */
 }
 
 .left_side {
