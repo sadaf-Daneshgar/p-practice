@@ -107,3 +107,33 @@ nav {
   height: 320px;
   border-radius: 0.5rem;
 }
+
+.features {
+  background-color: #2C57E4;
+  margin-top: 3rem;
+}
+
+.person-title {
+  text-align: center;
+  line-height: 2rem;
+  color: #fff;
+  padding-top: 2rem;
+}
+
+.person-section {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+}
+
+.person-part {
+  background-color: #fff;
+  max-width: 300px;
+  padding: 1.5rem;
+  border-radius: 0.5rem;
+  margin-top: 2rem;
+}
+
+.person-detali {
+  line-height: 2rem;
+}
