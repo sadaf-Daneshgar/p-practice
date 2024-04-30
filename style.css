@@ -80,3 +80,30 @@ nav {
   height: 300px;
   border-radius: 0.3rem;
 }
+
+.work-title {
+  text-align: center;
+  line-height: 2rem;
+}
+
+.work-details {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 2rem;
+}
+
+.works {
+  text-align: center;
+  line-height: 2rem;
+}
+
+.work-img {
+  text-align: center;
+  padding-top: 3rem;
+}
+
+.sadaf-img {
+  width: 30%;
+  height: 320px;
+  border-radius: 0.5rem;
+}
