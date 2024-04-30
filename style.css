@@ -59,10 +59,11 @@ nav {
 
 .left_side {
   flex-basis: 50%;
+  padding-right: 3rem;
 }
 
 .left {
-  max-width: 30rem;
+  max-width: 28rem;
 }
 
 .btns {
