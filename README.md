@@ -1,5 +1,3 @@
-<a name="readme-top"></a>
-
 <div align="center">
   <h3><b>My Personal Portfolio</b></h3>
 </div>
