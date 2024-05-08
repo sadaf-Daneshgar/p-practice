@@ -26,7 +26,7 @@
 
 # 📖 [your_project_name] <a name="about-project"></a>
 
-**[your_project__name]** is a...
+**[your_project__name]** 
 
 ## 🛠 Built With <a name="built-with"></a>
 
