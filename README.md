@@ -169,6 +169,7 @@ Example:
 - [ ] **[new_feature_1]**
 - [ ] **[new_feature_2]**
 - [ ] **[new_feature_3]**
+- [ ] **[new_feature_4]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
