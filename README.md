@@ -26,7 +26,7 @@
 
 # 📖 [Personal Portfolio] <a name="about-project"></a>
 
-**[your_project__name]** 
+**[Personal Portfolio]** 
 
 ## 🛠 Built With <a name="built-with"></a>
 
