@@ -1,5 +1,5 @@
 <div align="center">
-  <h3><b>My Personal Portfolio</b></h3>
+ 
 </div>
 
 # 📗 Table of Contents
